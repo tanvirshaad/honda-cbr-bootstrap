@@ -53,3 +53,8 @@ p {
 .rating-color {
   color: #e76f51;
 }
+.model-p {
+  color: #000000;
+  font-size: 18px;
+  font-weight: 600;
+}
