@@ -1,35 +1,46 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
 
 body {
-    font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .top-banner {
-    background-color: #264653;
-    max-width: 100%;
+  background-color: #264653;
+  max-width: 100%;
 }
 .bold-text {
-    font-size: 48px;
-    font-weight: 600;
-    line-height: 72px;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 72px;
+  color: black;
 }
 p {
-    color: #E0E0E0;
-    font-size: 16px;
-    line-height: 24px;
-    font-weight: 300;
+  color: #e0e0e0;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
 }
 .btn-orange {
-    background-color: #E76F51;
-    border-radius: 5px;
-    padding: 10px;
-    color: #ffffff;
-    font-size: 16px;
-    font-weight: 500;
-    width: 168px;
-    height: 44px;
+  background-color: #e76f51;
+  border-radius: 5px;
+  padding: 10px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  width: 168px;
+  height: 44px;
 }
 .btn-orange:hover {
-    color: #E76F51;
-    border: 1px solid #E76F51;
-    background: transparent;
+  color: #e76f51;
+  border: 1px solid #e76f51;
+  background: transparent;
+}
+.featured-bikes {
+  max-width: 100%;
+}
+.orange-text {
+  color: #e76f51;
+  font-weight: 600;
+}
+.grayscale {
+  filter: grayscale(1);
 }
