@@ -1,8 +1,10 @@
+/* fonts */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
-
+/* utilities */
 body {
   font-family: "Poppins", sans-serif;
 }
+
 .top-banner {
   background-color: #264653;
   max-width: 100%;
